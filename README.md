@@ -7,12 +7,12 @@ Features:
 - Enable web location to log activities based on it.
 - Record a cycling/running activity.
 - Zoom on each activity by clicking on the activity from the list.
-- Eble delete an activity record.
+- Ability to delete an activity record.
 
 Improving suggestions:
 - Modification of an activity
 - Adding further information on each activity record
-- 
+- Adding an option to store the information in a file and let the user download it.
 
 I used to code the project as a part of a coding online course.
 © Copyright by Jonas Schmedtmann
