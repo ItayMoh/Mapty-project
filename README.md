@@ -7,7 +7,7 @@ Features:
 - Enable web location to log activities based on it.
 - Record a cycling/running activity.
 - Zoom on each activity by clicking on the activity from the list.
-- Eable delete an activity record.
+- Eble delete an activity record.
 
 Improving suggestions:
 - Modification of an activity
